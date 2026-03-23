@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #ecfdf5;
+  --color-brand-100: #d1fae5;
+  --color-brand-500: #10b981;
+  --color-brand-600: #059669;
+  --color-brand-700: #047857;
+  --color-brand-900: #064e3b;
+
+  --color-accent-500: #f97316;
+  --color-accent-600: #ea580c;
+
+  --color-brand-orange: #f97316;
+  --color-brand-orangeHover: #ea580c;
+
+  --font-sans: Inter, system-ui, sans-serif;
+  --radius-2xl: 1rem;
+  --radius-3xl: 1.5rem;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: #f8fafc;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "VIN GRAND PARK HOMES",
+  "description": "Nền tảng bất động sản thương mại hàng đầu Việt Nam. An cư - Đầu tư - Sinh lời - Bền vững.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
